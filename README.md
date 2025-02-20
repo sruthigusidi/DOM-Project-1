@@ -13,3 +13,5 @@ This project demonstrates how to dynamically change CSS properties of a `div` el
 1. Clone the repository:
    ```sh
    git clone https://github.com/sruthigusidi/DOM-Project-1.git
+##Repository hosted link:https://sruthigusidi.github.io/DOM-Project-1/
+
